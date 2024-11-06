@@ -1,0 +1,23 @@
+body {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(38, 38, 38);
+  color: white;
+}
+
+nav {
+  font-size: 20x;
+  margin: 45px auto 75px auto;
+}
+
+ul {
+  gap: 20px;
+  display: flex;
+  list-style: none;
+}
+
+img {
+  max-width: 300px;
+  padding: 20px;
+}
